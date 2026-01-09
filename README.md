@@ -122,6 +122,10 @@ Foi desenvolvido um dashboard conectado à camada **processed**, permitindo:
 
 pode ser verificado em: https://lookerstudio.google.com/reporting/ef025d31-4140-4bf9-a77a-6b541b04afb7
 
+abaixo segue print do dashboard
+
+<img width="1080" height="1357" alt="Image" src="https://github.com/user-attachments/assets/65bcd908-f381-4d3c-b067-baa935221688" />
+
 ### 🧠 Data App (Streamlit)
 
 Um **Data App interativo** foi desenvolvido para consumo da camada **analytics**, permitindo:
@@ -132,6 +136,18 @@ Um **Data App interativo** foi desenvolvido para consumo da camada **analytics**
 * apoio direto à tomada de decisão
 
 pode ser verificado em: https://data-app-otimiza-o-de-acoes-promocionais-4aarhpvnq6xmrhpxhs2fy.streamlit.app/
+
+Caso deseje rodar localmente, baixe o código do data app, use o terminal para navegar até a pasta específica, através do comando cd, e em seguida rode o comando "python -m streamlit run app.py"
+
+abaixo seggue prints do data app
+
+<img width="1917" height="767" alt="Image" src="https://github.com/user-attachments/assets/b8731f09-5ff2-459c-9a26-692ed3befa27" />
+
+<img width="1916" height="717" alt="Image" src="https://github.com/user-attachments/assets/9936f814-a077-4735-beef-4075269c59dc" />
+
+<img width="1917" height="596" alt="Image" src="https://github.com/user-attachments/assets/0c5ba647-5e8c-48ac-a589-ba4e79331301" />
+
+<img width="1915" height="610" alt="Image" src="https://github.com/user-attachments/assets/d77e9def-a5a6-4886-8b2a-dcddda158099" />
 
 ---
 

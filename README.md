@@ -1,7 +1,5 @@
 # Case Técnico — Plataforma de Dados para Otimização de Ações Promocionais no Varejo
 
-A apresentação do case pode ser verificada em: https://youtu.be/KvMPuuDLl2Q
-
 ## 1. Contexto do Problema
 
 Uma grande empresa de e-commerce busca construir uma **Plataforma de Dados** capaz de centralizar informações de diferentes áreas do negócio, permitindo análises descritivas e prescritivas com maior agilidade, menor custo e impacto direto na tomada de decisão.
